@@ -1,0 +1,8 @@
+body{
+    color: rgb(233,233,233);
+    background-color: rgb(110, 208, 233);
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
