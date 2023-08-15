@@ -5,4 +5,5 @@ body{
 nav ul{
     display: flex;
     justify-content: space-between;
+    padding: 20px;
 }
