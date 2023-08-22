@@ -1,0 +1,18 @@
+#corpo{
+    color: rgb(233,233,233);
+    background-color: rgb(110, 208, 233);
+}
+#lista1 #sublista{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+#paragrafoPrimeiro{
+    color:blue
+}
+.paragrafoSegundo{
+    color:red
+}
+#paragrafoTerceiro{
+    color: black
+}
